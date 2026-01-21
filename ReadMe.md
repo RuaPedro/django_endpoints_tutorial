@@ -17,7 +17,7 @@ Pasos de instalacion (desde este repo)
 ```bash
 python -m venv .venv
 source .venv/bin/activate #mac
-.\venv\Scripts\activate #windows
+.\.venv\Scripts\activate #windows
 
 ```
 
