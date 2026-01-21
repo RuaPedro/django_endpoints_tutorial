@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+.DS_Store
+.venv/
+
+# Django media
+api/media/
+
+# Node/Editor
+.vscode/
+.idea/
